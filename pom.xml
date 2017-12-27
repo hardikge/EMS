@@ -400,7 +400,6 @@
 		<version>2.6</version>
 		<configuration>
 			<formats>
-				<format>html</format>
 				<format>xml</format>
 			</formats>
 		</configuration>
