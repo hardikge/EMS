@@ -267,9 +267,10 @@
 				<version>2.1</version>
 				<configuration>
 					<server>myserver</server>
-					<url>http://localhost:8080/manager/text</url>
+					<url>http://localhost:6565/manager/text</url>
 					<username>admin</username>
 					<password>admin</password>
+          				<update>true</update>								
 					<path>/EmployeeApplication</path>
 				</configuration>
 				<executions>
